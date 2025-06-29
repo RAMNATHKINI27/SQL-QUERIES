@@ -11,7 +11,9 @@ This project demonstrates the use of core SQL techniques such as JOIN, GROUP BY,
 
 ## 📸 Preview
 
-![Customer Analysis](customer_analysis.png)
+## 📸 Preview
+
+![Customer Analysis Preview](CUSTOMER%20ANALYSIS%20PREVIEW.png)
 
 ## 📁 Files Included
 
